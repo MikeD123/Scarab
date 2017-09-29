@@ -40,7 +40,7 @@ Tokens are distributed pro-rata. E.g. 100 people all deposit 1 ETH into the smar
 
 - ICO creator being able to deploy these contracts on the whitelist. Each contract would have a particular whitelist that it's allowed to receive from (E.g. Syndicate 1 contract address "0x12345", and Syndicate 2 contract address "0x09876", all other deposits aren't permitted).
 
-*E.g. mikeCoin ICO is going to whitelist a handful of addresses. People who are able to participate in these whitelists are to provide their syndicates contract address to be added. Contributions will be taken directly from the contract, and distributed accordingly.*
+*E.g. mikeCoin ICO is going to whitelist a handful of addresses. People who are able to participate in these whitelists are to provide their syndicate contract address to be added. Contributions will be taken directly from the contract, and distributed accordingly.*
 
 
 - Collecting the syndicates deposits, and their specified/allowed deposit address into the ICO. Leveraging the contract to make those deposits on behalf of everyone in the most timely manner, and then take all the tokens received, and push back to everyone. Minimizing mass inconvenience for multiple parties, and also providing a strong opportunity to receive the most amount of tokens possible.
