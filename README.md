@@ -1,4 +1,4 @@
-# Faction
+# Scarab
 
 #  ⏳ Contribute to ICO's as a group, in a trustless manner ⏳
 
