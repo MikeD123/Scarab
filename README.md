@@ -2,7 +2,7 @@
 
 #  ⏳ Contribute to ICO's as a group, in a trustless manner ⏳
 
-![ICO Pooling For Syndicates](https://cdn2.macworld.co.uk/cmsdata/features/3505364/Portrait-Lock.jpg)
+![ICO Pooling For Syndicates](https://wiki.thm.de/w/images/7/7f/Profil.png)
 
 ICO's provide whitelists for favored investors, or friends/advisors. This guarantees them a certain amount of assets to be purchased. Typically with these whitelists, the allocation is larger than they're able to personally fill, so they will then provide some of the allocation to interested parties they know.
 
@@ -37,6 +37,10 @@ Tokens are distributed pro-rata. E.g. 100 people all deposit 1 ETH into the smar
 
 ## 👌 **Good use cases** 👌 
 - You and your friends are syndicating funds together to send over to a whitelist. For peace of mind, you implement this contract together to ensure that funds are going where they're supposed to be, and have full visibility on the contribution amount.
+
+- ICO creator being able to deploy these contracts on the whitelist. Each contract would have a particular whitelist that it's allowed to receive from (E.g. Syndicate 1 contract address "0x12345", and Syndicate 2 contract address "0x09876", all other deposits aren't permitted).
+
+- Collecting the syndicates deposits, and their specified/allowed deposit address into the ICO. Leveraging the contract to make those deposits on behalf of everyone in the most timely manner, and then take all the tokens received, and push back to everyone. Minimizing mass inconvenience for multiple parties, and also providing a strong opportunity to receive the most amount of tokens possible.
 
 ## ⚠️ 🚨 **Bad use case (Don't ever do)** 🚨⚠️
 
